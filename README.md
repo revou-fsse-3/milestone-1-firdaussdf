@@ -1,7 +1,6 @@
 
-This milestone project https://bespoke-phoenix-9465e1.netlify.app/
+This milestone project custom domain http://belajarmesin.site/
 
-for make domain  still on progress
 
 #  Align Relevant Skills
 
