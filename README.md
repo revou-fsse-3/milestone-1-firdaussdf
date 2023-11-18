@@ -14,8 +14,8 @@ Semantic HTML
 + Using appropriate tags that fits each role
 + Headings tags
 + Paragraph tags
-Lists tags
-+ Responsive design
++ Lists tags
+ Responsive design
 + CSS Media Queries
 + relative units
 easy-to-read typography and font sizes
