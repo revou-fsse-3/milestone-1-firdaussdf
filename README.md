@@ -10,7 +10,7 @@ Helpful website development prerequisites may include coding in languages like J
 
 The Main Focus for the project are:
 
-Semantic HTML
++ Semantic HTML
 + Using appropriate tags that fits each role
 + Headings tags
 + Paragraph tags
