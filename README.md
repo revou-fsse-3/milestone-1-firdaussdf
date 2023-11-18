@@ -11,17 +11,17 @@ Helpful website development prerequisites may include coding in languages like J
 The Main Focus for the project are:
 
 Semantic HTML
-+Using appropriate tags that fits each role
-+Headings tags
-+Paragraph tags
++ Using appropriate tags that fits each role
++ Headings tags
++ Paragraph tags
 Lists tags
-+Responsive design
-+CSS Media Queries
-+relative units
++ Responsive design
++ CSS Media Queries
++ relative units
 easy-to-read typography and font sizes
 Custom Domain and DNS Configuration
-+Using custom domain previously bought from domestic registrar "Niagahoster"
-+Connecting and Managing custom domain with "Cloudfare"
-+Deploying site through "Netlify" and connecting custom domain with Netlify's subdomain
++ Using custom domain previously bought from domestic registrar "Niagahoster"
++ Connecting and Managing custom domain with "Cloudfare"
++ Deploying site through "Netlify" and connecting custom domain with Netlify's subdomain
 Technical Writing
-+Proficiency in 'Technical Writing' to create clear and concise documentation.
++ Proficiency in 'Technical Writing' to create clear and concise documentation.
