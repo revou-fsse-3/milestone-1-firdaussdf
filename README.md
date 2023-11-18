@@ -3,7 +3,7 @@ This milestone project https://bespoke-phoenix-9465e1.netlify.app/
 
 for make domain  still on progress
 
-# H Align Relevant Skills
+#  Align Relevant Skills
 
 Prior to conceptualizing your new website, it is important to first audit your relevant prerequisite skills — namely, those rooted in web development and coding. Such skills can be instrumental in DIY site creation, as they can help you handle crucial technical phases autonomously which may allow for a smoother development process and easier creative control.
 Helpful website development prerequisites may include coding in languages like JavaScript and HTML/CSS (for various design and usability factors)
